@@ -1,2 +1,7 @@
 @charset "UTF8";
 /*CONFIGURAÇÕES TELA RETRATO*/
+
+body {
+    background-image: url(../imagens/cev-portrait.jpg);
+    background-position: center bottom;
+}
